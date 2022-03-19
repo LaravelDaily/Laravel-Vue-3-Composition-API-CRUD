@@ -9,7 +9,7 @@
                 <router-link
                     :to="{ name: 'companies.create' }"
                     class="text-sm font-medium"
-                    >Create BBB</router-link
+                    >Create AAA</router-link
                 >
             </div>
         </div>

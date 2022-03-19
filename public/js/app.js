@@ -21939,7 +21939,7 @@ var _hoisted_3 = {
   "class": "px-4 py-2 text-white bg-indigo-600 hover:bg-indigo-700 cursor-pointer"
 };
 
-var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Create BBB");
+var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Create AAA");
 
 var _hoisted_5 = {
   "class": "min-w-full border divide-y divide-gray-200"
